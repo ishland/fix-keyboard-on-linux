@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# Fix Keyboard issues on Linux
 
-## Setup
+This is a simple mod which fixes some annoying bugs related to keyboard on Linux.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+----------
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+**[I do not give consent to Debugify to get this merged.](https://gist.github.com/fxmorin/9770473614e3e5e0703e44273dab33f7)**
