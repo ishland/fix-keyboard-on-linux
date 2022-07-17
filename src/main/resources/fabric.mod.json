@@ -4,12 +4,13 @@
   "version": "${version}",
 
   "name": "Fix Keyboard on Linux",
-  "description": "",
+  "description": "This is a simple mod which fixes some annoying bugs related to keyboard on Linux.",
   "authors": [
-    "Me!"
+    "ishland"
   ],
   "contact": {
-    "sources": "https://github.com/ishland/fix-keyboard-on-linux"
+    "sources": "https://github.com/ishland/fix-keyboard-on-linux",
+    "issues": "https://github.com/ishland/fix-keyboard-on-linux/issues"
   },
 
   "license": "MIT",
